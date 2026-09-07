@@ -54,7 +54,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT  
 <img width="712" height="180" alt="image" src="https://github.com/user-attachments/assets/16c3ebd9-dc2c-420d-a88a-9d46dbd4c57f" />
 
 
@@ -130,7 +130,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 <img width="707" height="356" alt="image" src="https://github.com/user-attachments/assets/1a38c135-74d0-4ad2-83d0-1337816aa0a4" />
 
